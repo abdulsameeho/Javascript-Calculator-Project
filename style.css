@@ -1,0 +1,53 @@
+
+
+.mail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.calc {
+    width: 500px;
+    height: 700px;
+    background-color: black;
+
+}
+
+.calc-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+   
+
+}
+
+#screen {
+    width: 60%;
+    height: 65px;
+    pointer-events: none;
+    font-size: 55px;
+    background-color: black;
+    color: white;
+    border: none;
+
+}
+.btns {
+    margin-left: 80px;
+    margin-top: 50px;
+}
+
+.btn {
+
+    font-size: 25px;
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+    color: black;
+
+
+}
